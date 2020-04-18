@@ -8,7 +8,7 @@
 
 import java.util.Random;
 
-public class MAM_LinkedListAlgorithms {
+public class LinkedListAlgorithms {
 	
 	static final int MAX_NUMBERS = 25;
 	static final int MAX_INT_VALUE = 100;
