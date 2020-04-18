@@ -1,2 +1,2 @@
 # Algorithms-And-LinkedLists
-A program that operates on a linked list of nodes that each contain an integer.
+A program that uses insertion sort, selection sort, and linked lists.
